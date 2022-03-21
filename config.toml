@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 theme = "hugo-product-launch"
 
 # The "title" of your website
-title = "Builders Of The Future, Inc."
+title = "PlantaCR"
 
 # Render line-breaks in .md-files as line-breaks in HTML.
 # This is e.g. useful for rendering a multi-line address.
@@ -21,10 +21,10 @@ title = "Builders Of The Future, Inc."
 [params]
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Markdown is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "© Builders Of The Future, Inc."
+    copyright = "PlantaCR"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "You don't even know what we can do for you!"
+    description = "¡Estamos para asistirle en el avance de su producción vegetal!"
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
     # Hint: It's good practise to also put a "favicon.ico"-file into your "static"-folder.
