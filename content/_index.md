@@ -1,5 +1,5 @@
 ---
-header_brand: "PlantaCR"
+header_brand: "`PlantaCR"
 header_tagline_paragraph: "Consultoría para producción vegetal basada en fisiología y biología molecular para detección temprana de eventos clave en el desarrollo de las plantas que definen la ruta de la producción hacia una cosecha óptima."
 header_button_cta:
   url: "#formulario-contacto"
@@ -27,9 +27,9 @@ Queremos conocer tus propósitos y responder tus preguntas.
 
 # Nuestra pasión
 
-Sí, lo adivinaste, en `PlantaCR` las plantas son nuestra pasión :seedling: :herb: :deciduous_tree: :cherry_blossom: :tomato: :lemon: :corn: :watermelon: .
+Sí, lo adivinaste, en **PlantaCR** las plantas son nuestra pasión <!--:seedling: :herb: :deciduous_tree: :cherry_blossom: :tomato: :lemon: :corn: :watermelon:--> .
 
-Las plantas organismos complejos que tienen, en su gran mayoría, la capacidad de formar su alimento con la energía del sol. Sus múltiples rutas metabólicas dependen de complejas redes protéicas, hormonas y pequeñas moléculas que funcionan como señalizadores. A su vez, esta orquestra química, depende de procesos genómicos los cuales son modificados según factores endógenos que mencionamos y los factores externos, ambientales :sunny: :partly_sunny: :cloud: :umbrella: y biológicos :bug: :beetle: :ant: :worm: :microbe: .
+Las plantas organismos complejos que tienen, en su gran mayoría, la capacidad de formar su alimento con la energía del sol. Sus múltiples rutas metabólicas dependen de complejas redes protéicas, hormonas y pequeñas moléculas que funcionan como señalizadores. A su vez, esta orquestra química, depende de procesos genómicos los cuales son modificados según factores endógenos que mencionamos y los factores externos, ambientales <!--:sunny: :partly_sunny: :cloud: :umbrella: y biológicos :bug: :beetle: :ant: :worm: :microbe:--> .
 
 
 ![Prototype Work](images/prototype.jpg) <!-- https://www.pexels.com/search/product%20testing/ -->
@@ -51,4 +51,7 @@ Phone: (+506) 8312 6645
 ---
 
 <!--# Stay in touch
+
+Let's stay in touch. Sign up for our newsletter. Do not worry, we will not bother you with boring details. Expect nice & tight updates about once or twice every 3 months.
+
 {{< newsletter_sign_up id="newsletter-sign-up-form" placeholder_email="Your Email" button_label="Sign up">}}-->
