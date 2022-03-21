@@ -1,55 +1,55 @@
 ---
 header_brand: "PlantaCR"
-header_tagline_paragraph: "Yes, we are glad you made it here. In fact, the only emotion stronger than our gladness is our desire to tell you more about what we are building. Bright times lie ahead. Let's get into it!"
+header_tagline_paragraph: "Consultoría para producción vegetal basada en fisiología y biología molecular para detección temprana de eventos clave en el desarrollo de las plantas que definen la ruta de la producción hacia una cosecha óptima."
 header_button_cta:
-  url: "#contact-form"
+  url: "#formulario-contacto"
   title: "Contáctenos"
 header_button_more:
-  url: "#the-future---today"
+  url: "#trabajo"
   title: "¿Qué hacemos?"
 teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
----
-
-# The Future - Today!
-
-Some introductory text to get you excited about what we are doing. For example, I could tell you what our [prototype](#prototype) can do and then link you to our [contact form](#contact-form) so you can get in touch to ask for a **one-on-one** (or more :-)) showcase session.
 
 ---
 
-Have we caught your attention? We appreciate your feedback at this early stage of our product. Do not hesitate to contact us. In fact, if your interested, we'd love to give you a tour of the prototype we built.
+# ¡Optimicemos sus resultados!
+
+Buscamos identificar, a través de análisis biológicos y computacionales la dirección de su siembra o ecosistema en regeneración para generar estratégias personalizadas que definan acciones tempranas. Procurar y asegurar que su sistema productivo se dirija de manera exitosa hacia su propósito es nuestro objetivo. [¡Hagámoslo realidad!](#formulario-contacto)
+
+---
+
+¿Te intesa mejorar tu sistema de producción vegetal? ¿Quieres determinar la mejor fecha para siembra? ¿Quieres mejorar la fertilidad de tu suelo? Tal vez, ¿incluir una especie o variedad nueva en tu inventario? o quizás sembrar bajo un nuevo método que te ahorre dinero y sea amigable con el ambiente. [Queremos conocer tus propósitos y responder tus preguntas](#formulario-contacto)
 
 {{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}}
 
 ---
 
-# Prototype
+# Nuestra pasión
 
-You guessed it! We put our money where our mouth is. This is what we accomplished so far.
+Sí, lo adivinaste, en `PlantaCR` las plantas son nuestra pasión :seedling: :herb: :deciduous_tree: :cherry_blossom: :tomato: :lemon: :corn: :watermelon: .
+
+Las plantas organismos complejos que tienen, en su gran mayoría, la capacidad de formar su alimento con la energía del sol. Sus múltiples rutas metabólicas dependen de complejas redes protéicas, hormonas y pequeñas moléculas que funcionan como señalizadores. A su vez, esta orquestra química, depende de procesos genómicos los cuales son modificados según factores endógenos que mencionamos y los factores externos, ambientales :sunny: :partly_sunny: :cloud: :umbrella: y biológicos :bug: :beetle: :ant: :worm: :microbe: .
+
 
 ![Prototype Work](images/prototype.jpg) <!-- https://www.pexels.com/search/product%20testing/ -->
 
-Check out this sweet preview. Impressed much, are you?
+Descubre más con nostros, [contáctanos](#formulario-contacto)
 
 ---
 
-# Imprint & Privacy Policy
+# Nuestra información, por si estas pensando mejorar tu sistema productivo
 
-Let's keep it simple. This is our contact information:
+**Información de contacto**:
 
-Jane Doe
-1093 Simpson Square
-May 73851, OK
-USA
+San José
+Costa Rica
 
-E-mail: jane@doe.net
-Phone: 580-689-0577
-
-We take data privacy very seriously, so we make sure not to store anything we do not need. We do not have any tracking service, no cookies or anything like that. If you decide to use the contact form or the newsletter sign up this information will be stored on Netlify, a service we use to host this website. You can approach us any time to have your data removed or simply retrieve information about what information we did store.
+E-mail: info@plantacr.com
+Phone: (+506) 8312 6645
 
 ---
 
-# Stay in touch
+<!--# Stay in touch
 
 Let's stay in touch. Sign up for our newsletter. Do not worry, we will not bother you with boring details. Expect nice & tight updates about once or twice every 3 months.
 
-{{< newsletter_sign_up id="newsletter-sign-up-form" placeholder_email="Your Email" button_label="Sign up">}}
+{{< newsletter_sign_up id="newsletter-sign-up-form" placeholder_email="Your Email" button_label="Sign up">}}-->
