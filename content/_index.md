@@ -1,5 +1,5 @@
 ---
-header_brand: "`PlantaCR"
+header_brand: "PlantaCR"
 header_tagline_paragraph: "Consultoría para producción vegetal basada en fisiología y biología molecular para detección temprana de eventos clave en el desarrollo de las plantas que definen la ruta de la producción hacia una cosecha óptima."
 header_button_cta:
   url: "#formulario-contacto"
