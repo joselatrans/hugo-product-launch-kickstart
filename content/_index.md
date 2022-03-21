@@ -1,6 +1,6 @@
 ---
 header_brand: "PlantaCR"
-header_tagline_paragraph: "Consultoría para producción vegetal basada en fisiología y biología molecular para detección temprana de eventos clave en el desarrollo de las plantas que definen la ruta de la producción hacia una cosecha óptima."
+header_tagline_paragraph: "Consultoría para producción vegetal basada en fisiología y biología molecular. Detección temprana de eventos clave en el desarrollo de las plantas, que guían la producción hacia una cosecha óptima."
 header_button_cta:
   url: "#formulario-contacto"
   title: "Contáctenos"
@@ -38,9 +38,9 @@ Descubre más con nostros, [contáctanos](#formulario-contacto)
 
 ---
 
-# Nuestra información, por si estas pensando mejorar tu sistema productivo
+# Nuestros datos
 
-**Información de contacto**:
+*por si estas pensando mejorar tu sistema productivo*
 
 San José
 Costa Rica
