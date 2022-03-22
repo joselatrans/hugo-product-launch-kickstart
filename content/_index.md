@@ -29,14 +29,48 @@ Queremos conocer tus propósitos y responder tus preguntas.
 
 Sí, lo adivinaste, en **PlantaCR** las plantas son nuestra pasión <!--:seedling: :herb: :deciduous_tree: :cherry_blossom: :tomato: :lemon: :corn: :watermelon:--> .
 
-Las plantas organismos complejos que tienen, en su gran mayoría, la capacidad de formar su alimento con la energía del sol. Sus múltiples rutas metabólicas dependen de complejas redes protéicas, hormonas y pequeñas moléculas que funcionan como señalizadores. A su vez, esta orquestra química, depende de procesos genómicos los cuales son modificados según factores endógenos que mencionamos y los factores externos, ambientales <!--:sunny: :partly_sunny: :cloud: :umbrella: y biológicos :bug: :beetle: :ant: :worm: :microbe:--> .
+Las plantas son organismos complejos que tienen, en su gran mayoría, la capacidad de formar su alimento con la energía del sol. Sus múltiples rutas metabólicas dependen de complejas redes protéicas, hormonas y pequeñas moléculas que funcionan como señalizadores. A su vez, esta orquestra química, depende de procesos genómicos los cuales son modificados según factores endógenos que mencionamos y los factores externos, ambientales <!--:sunny: :partly_sunny: :cloud: :umbrella: y biológicos :bug: :beetle: :ant: :worm: :microbe:--> .
 
 
 ![Prototype Work](images/prototype.jpg) <!-- https://www.pexels.com/search/product%20testing/ -->
 
 Descubre más con nostros, [contáctanos](#formulario-contacto)
 
+
 ---
+<!--
+# ¿Cómo trabajamos?
+
+Estado fisiológico
+
+- Fotoquímica
+- Pigmentos
+- Intercambio gaseoso
+- Cobertura de dosel
+- Índice de verdes
+
+
+Los análisis biológicos de laboratorio húmedo que realizamos nos ayudan a comprender sus cultivos de manera detallada, por lo cual son piezas clave en el diseño de estrategias de mejora.
+
+- Marcadores moleculares
+- PCR
+- RT-PCR
+- Wenstern-blot
+- Secuenciación de ADN
+- Secuenciación de ARN
+- Microscopía de tejidos
+- Espectrofotometría
+- Extracción de pigmentos
+- Cromatografía
+
+
+- Bioinformática
+- Modelaje estadístico
+- Redes neuronales
+- Aprendizaje de máquinas
+
+---
+-->
 
 # Nuestros datos
 
