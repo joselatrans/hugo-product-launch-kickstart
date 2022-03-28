@@ -11,13 +11,13 @@ teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20test
 
 ---
 
-# ¡Optimicemos sus resultados!
+# ¡Optimicemos tus resultados!
 
-Buscamos identificar, a través de análisis biológicos y computacionales, la dirección de su siembra o ecosistema en regeneración para generar estratégias personalizadas que definan acciones tempranas. Procurar y asegurar que su sistema productivo se dirija de manera exitosa hacia su propósito es nuestro objetivo. [¡Hagámoslo realidad!](#formulario-contacto)
+Buscamos identificar, a través de análisis biológicos y computacionales, la dirección de tu siembra o ecosistema en regeneración para generar estrategias personalizadas que definan acciones tempranas. Procurar y asegurar que tu sistema productivo se dirija de manera exitosa hacia tu propósito es nuestro objetivo. [¡Hagámoslo realidad!](#formulario-contacto)
 
 ---
 
-¿Te intesa mejorar tu sistema de producción vegetal? ¿Quieres determinar la mejor fecha para siembra? ¿Quieres mejorar la fertilidad de tu suelo? Tal vez, incluir una especie o variedad nueva en tu inventario o quizás sembrar bajo un nuevo método que te ahorre dinero y sea amigable con el ambiente.
+¿Te intesa mejorar tu sistema de producción vegetal? ¿Quieres determinar la mejor fecha para sembrar? ¿Quieres mejorar la fertilidad de tu suelo? Tal vez, incluir una especie o variedad nueva en tu inventario o quizás sembrar bajo un nuevo método que te ahorre dinero y sea amigable con el ambiente.
 
 Queremos conocer tus propósitos y responder tus preguntas.
 
@@ -29,7 +29,7 @@ Queremos conocer tus propósitos y responder tus preguntas.
 
 Sí, lo adivinaste, en **PlantaCR** las plantas son nuestra pasión <!--:seedling: :herb: :deciduous_tree: :cherry_blossom: :tomato: :lemon: :corn: :watermelon:--> .
 
-Las plantas son organismos complejos que tienen, en su gran mayoría, la capacidad de formar su alimento con la energía del sol. Sus múltiples rutas metabólicas dependen de complejas redes protéicas, hormonas y pequeñas moléculas que funcionan como señalizadores. A su vez, esta orquestra química, depende de procesos genómicos los cuales son modificados según factores endógenos que mencionamos y los factores externos, ambientales <!--:sunny: :partly_sunny: :cloud: :umbrella: y biológicos :bug: :beetle: :ant: :worm: :microbe:--> .
+Las plantas son organismos complejos que tienen, en su gran mayoría, la capacidad de formar su alimento con la energía del sol. Sus múltiples rutas metabólicas dependen de complejas redes protéicas, hormonas y pequeñas moléculas que funcionan como señalizadores. A su vez, esta orquesta química depende de procesos genómicos los cuales son modificados según factores endógenos que mencionamos y los factores externos, ambientales <!--:sunny: :partly_sunny: :cloud: :umbrella: y biológicos :bug: :beetle: :ant: :worm: :microbe:--> .
 
 
 ![Prototype Work](images/prototype.jpg) <!-- https://www.pexels.com/search/product%20testing/ -->
@@ -50,7 +50,7 @@ Estado fisiológico
 - Índice de verdes
 
 
-Los análisis biológicos de laboratorio húmedo que realizamos nos ayudan a comprender sus cultivos de manera detallada, por lo cual son piezas clave en el diseño de estrategias de mejora.
+Los análisis biológicos de laboratorio húmedo que realizamos nos ayudan a comprender tus cultivos de manera detallada, por lo cual son piezas clave en el diseño de estrategias de mejora.
 
 - Marcadores moleculares
 - PCR
