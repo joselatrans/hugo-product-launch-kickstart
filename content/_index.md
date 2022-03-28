@@ -21,7 +21,7 @@ Buscamos identificar, a través de análisis biológicos y computacionales, la d
 
 Queremos conocer tus propósitos y responder tus preguntas.
 
-{{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Enviar ✉️">}}
+{{< formulario-contacto id="formulario-contacto" placeholder_name="Nombre" placeholder_email="Email " placeholder_message="Mensaje" button_label="Enviar ✉️">}}
 
 ---
 
