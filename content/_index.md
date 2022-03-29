@@ -5,7 +5,7 @@ header_button_cta:
   url: "#contact-form"
   title: "Contáctenos"
 header_button_more:
-  url: "#trabajo"
+  url: "#nuestro-trabajo"
   title: "¿Qué hacemos?"
 teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
 
@@ -39,11 +39,15 @@ Descubre más con nostros, [contáctanos](#contact-form)
 
 ---
 
+
+# Nuestro trabajo
+
+- Estado fisiológico
+- Modelaje de datos ambientales y ecológicos
+- Pruebas moleculares
+- Calendarización de abono e insumos
+
 <!--
-# ¿Cómo trabajamos?
-
-Estado fisiológico
-
 - Fotoquímica
 - Pigmentos
 - Intercambio gaseoso
