@@ -1,12 +1,12 @@
 ---
 header_brand: "PlantaCR"
 header_tagline_paragraph: "Consultoría para producción vegetal basada en fisiología y biología molecular. Detección temprana de eventos clave en el desarrollo de las plantas, que guían la producción hacia una cosecha óptima."
-header_button_cta:
+<!--header_button_cta:
   url: "#formulario-contacto"
   title: "Contáctenos"
 header_button_more:
   url: "#trabajo"
-  title: "¿Qué hacemos?"
+  title: "¿Qué hacemos?"-->
 teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
 
 ---
@@ -21,7 +21,7 @@ Buscamos identificar, a través de análisis biológicos y computacionales, la d
 
 Queremos conocer tus propósitos y responder tus preguntas.
 
-{{< contact-form id="contact-form" placeholder_name="Nombre" placeholder_email="Email " placeholder_message="Mensaje" button_label="Enviar ✉️">}}
+<!--{{< contact-form id="contact-form" placeholder_name="Nombre" placeholder_email="Email " placeholder_message="Mensaje" button_label="Enviar ✉️">}}-->
 
 ---
 
