@@ -79,8 +79,6 @@ Los análisis biológicos de laboratorio húmedo que realizamos nos ayudan a com
 
 # Nuestros datos
 
-*por si estas pensando mejorar tu sistema productivo*
-
 San José
 Costa Rica
 
