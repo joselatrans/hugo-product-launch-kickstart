@@ -1,6 +1,6 @@
 ---
 header_brand: "PlantaCR"
-header_tagline_paragraph: "Consultoría para producción vegetal basada en fisiología y biología molecular. Detección temprana de eventos clave en el desarrollo de las plantas, que guían la producción hacia una cosecha óptima."
+header_tagline_paragraph: "Consultoría para producción vegetal basada en fisiología y biología molecular. Detección temprana de eventos clave en el desarrollo de las plantas, que guían la producción hacia una cosecha óptima. (En desarrollo)"
 header_button_cta:
   url: "#contact-form"
   title: "Contáctenos"
@@ -11,41 +11,42 @@ teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20test
 
 ---
 
-# ¡Optimicemos tus resultados!
+# <!--¡Optimicemos tus resultados!-->
 
-Buscamos identificar, a través de análisis biológicos y computacionales, la dirección de tu siembra o ecosistema en regeneración para generar estrategias personalizadas que definan acciones tempranas. Procurar y asegurar que tu sistema productivo se dirija de manera exitosa hacia tu propósito es nuestro objetivo. [Hagámoslo realidad.](#contact-form)
+<!--Buscamos identificar, a través de análisis biológicos y computacionales, la dirección de tu siembra o ecosistema en regeneración para generar estrategias personalizadas que definan acciones tempranas. Procurar y asegurar que tu sistema productivo se dirija de manera exitosa hacia tu propósito es nuestro objetivo. [Hagámoslo realidad.](#contact-form)-->
 
 ---
 
-¿Te intesa mejorar tu sistema de producción vegetal? ¿Quieres determinar la mejor fecha para sembrar? ¿Quieres mejorar la fertilidad de tu suelo? Tal vez, incluir una especie o variedad nueva en tu inventario o quizás sembrar bajo un nuevo método que te ahorre dinero y sea amigable con el ambiente.
+<!--¿Te intesa mejorar tu sistema de producción vegetal? ¿Quieres determinar la mejor fecha para sembrar? ¿Quieres mejorar la fertilidad de tu suelo? Tal vez, incluir una especie o variedad nueva en tu inventario o quizás sembrar bajo un nuevo método que te ahorre dinero y sea amigable con el ambiente.-->
 
-Queremos conocer tus propósitos y responder tus preguntas.
+<!--Queremos conocer tus propósitos y responder tus preguntas.-->
 
 {{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}}
 
 ---
 
-# Nuestra pasión
+<!--# Nuestra pasión-->
 
-Sí, lo adivinaste, en **PlantaCR** las plantas son nuestra pasión.
+<!--Sí, lo adivinaste, en **PlantaCR** las plantas son nuestra pasión.-->
 
-Las plantas son organismos complejos que tienen, en su gran mayoría, la capacidad de formar su alimento con la energía del sol. Sus múltiples rutas metabólicas dependen de complejas redes protéicas, hormonas y pequeñas moléculas que funcionan como señalizadores. A su vez, esta orquesta química depende de procesos genómicos los cuales son modificados según factores endógenos que mencionamos y los factores externos, ambientales.
+<!--Las plantas son organismos complejos que tienen, en su gran mayoría, la capacidad de formar su alimento con la energía del sol. Sus múltiples rutas metabólicas dependen de complejas redes protéicas, hormonas y pequeñas moléculas que funcionan como señalizadores. A su vez, esta orquesta química depende de procesos genómicos los cuales son modificados según factores endógenos que mencionamos y los factores externos, ambientales.-->
 
 
-![Prototype Work](images/prototype.jpg) <!-- https://www.pexels.com/search/product%20testing/ -->
+<!--![Prototype Work](images/prototype.jpg) https://www.pexels.com/search/product%20testing/ -->
 
-Descubre más con nostros, [contáctanos](#contact-form)
+<!--Descubre más con nostros, [contáctanos](#contact-form)-->
 
 
 ---
 
 
-# Nuestro trabajo
+# <!--Nuestro trabajo-->
 
-- Estado fisiológico
+<!--- Estado fisiológico
 - Modelaje de datos ambientales y ecológicos
 - Pruebas moleculares
 - Calendarización de abono e insumos
+-->
 
 <!--
 - Fotoquímica
@@ -77,13 +78,14 @@ Los análisis biológicos de laboratorio húmedo que realizamos nos ayudan a com
 -->
 ---
 
-# Nuestros datos
+<!--# Nuestros datos
 
 San José
 Costa Rica
 
 E-mail: info@plantacr.com
 Phone: (+506) 8312 6645
+-->
 
 ---
 
